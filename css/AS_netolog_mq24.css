@@ -830,7 +830,7 @@ img {
   		height: 154px;
   		line-height: 140px;  		
  		top: calc(50% - 77px);
- 		right: -84px;
+ 		right: -204px;
  		left: auto;
  	}
 	.about__section__slogan {	
@@ -847,7 +847,7 @@ img {
 	}
 	.about__section__slogan__even {
 		margin-top: 233px;
-		margin-left: 20%;
+		margin-right: 122px;
 		margin-bottom: 5px;	 
 		font-size: 80px;		
 		letter-spacing: 0em;	
